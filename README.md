@@ -81,5 +81,5 @@
 ## Авторы
 
 - Разработано ReaGemt(https://github.com/ReaGemt)
-- Звуки взяты с [источник/вебсайт](https://zvukogram.com/)
+- Звуки взяты с [zvukogram](https://zvukogram.com/)
 - Создано с использованием [Pygame](https://www.pygame.org/)
